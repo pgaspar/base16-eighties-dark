@@ -4,6 +4,13 @@ This is a color scheme for [Sublime Text](https://sublimetext.com) based on [tyr
 
 This color scheme was modified with Ruby/Rails in mind. I use it with the excelent [Spacegray](https://github.com/kkga/spacegray) UI theme.
 
+## Instructions for Package Control
+
+* Go to `Tools -> Command Palette`
+* `Package Control: Install Package`
+* Type `base16 eighties dark`
+* [View on Package Control](https://packagecontrol.io/packages/Base16%20Eighties%20Dark%20Color%20Scheme)
+
 ## Instructions for Manual Installation
 
 * Save [base16-eighties-dark.tmTheme](https://github.com/pgaspar/base16-eighties-dark/blob/master/base16-eighties-dark.tmTheme) file.
